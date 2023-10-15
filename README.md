@@ -1,2 +1,3 @@
 # Data_Analyst_Jop_Posting
-Big Blue Project 1, room 3.
+This is the 1st project on EDA using pandas library in Big Blue Data Science Academy with 2 other members.
+

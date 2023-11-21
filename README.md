@@ -1,3 +1,7 @@
-# Data_Analyst_Jop_Posting
-This is the 1st project on EDA using pandas library in Big Blue Data Science Academy with 2 other members.
-
+# project_1_Data_Analyst_Jop_Posting
+## Big Blue Project 1 
+### EDA
+#### Participants:
+##### -Marios Gravias
+##### -Tragakis Tilemachos
+##### -Chalepas Konstantinos
